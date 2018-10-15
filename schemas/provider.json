@@ -1,0 +1,10 @@
+{
+    "address": "66 Dean St. Albury",
+    "name": "Morello Physio",
+    "phone-number": "012346789",
+    "specialty": "physio",
+    "sub-specialties": [
+        "knees",
+        "hands"
+    ]
+}
